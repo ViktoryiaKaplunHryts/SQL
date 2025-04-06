@@ -3,21 +3,21 @@ _____________________________________________________________________________
 
 ### ✔ SQL Server Management Studio
 
-#### [📁 #основы, #сортировки, #условия](https://github.com/ViktoryiaKaplunHryts/basics-sorting-conditions)
+#### [📁 основы, сортировки, условия](https://github.com/ViktoryiaKaplunHryts/basics-sorting-conditions)
 
-#### [📁 #простые джойны](https://github.com/ViktoryiaKaplunHryts/simple-joins)
+#### [📁 простые джойны](https://github.com/ViktoryiaKaplunHryts/simple-joins)
 
-#### [📁 #конкатенация, #псевдонимы, #джойн нескольких таблиц](https://github.com/ViktoryiaKaplunHryts/concatenation-aliases-join-of-multiple-tables)
+#### [📁 конкатенация, псевдонимы, джойн нескольких таблиц](https://github.com/ViktoryiaKaplunHryts/concatenation-aliases-join-of-multiple-tables)
 
-#### [📁 #даты, #время](https://github.com/ViktoryiaKaplunHryts/dates-time)
+#### [📁 даты, время](https://github.com/ViktoryiaKaplunHryts/dates-time)
 
-#### [📁 #агрегатные функции](https://github.com/ViktoryiaKaplunHryts/Aggregate-functions)
+#### [📁 агрегатные функции](https://github.com/ViktoryiaKaplunHryts/Aggregate-functions)
 
-#### [📁 #подзапросы](https://github.com/ViktoryiaKaplunHryts/subqueries)
+#### [📁 подзапросы](https://github.com/ViktoryiaKaplunHryts/subqueries)
 
-#### [📁 #union,#case_when, #комментари, #переменные](https://github.com/ViktoryiaKaplunHryts/union-case_when-comments-variables)
+#### [📁 union,case_when, комментарии, переменные](https://github.com/ViktoryiaKaplunHryts/union-case_when-comments-variables)
 
-#### [📁 #текст](https://github.com/ViktoryiaKaplunHryts/text)
+#### [📁 текст](https://github.com/ViktoryiaKaplunHryts/text)
 
 ### ✔ Мои запросы в базу с помощью metabase
 
